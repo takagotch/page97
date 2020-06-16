@@ -9,7 +9,7 @@
 
 - Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
 - Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Site: **<https://takagotch.github.io/>**
 
 <!-- slide vertical=true -->
 
