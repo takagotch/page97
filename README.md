@@ -1,7 +1,6 @@
-# Takagotch Character.
+# Takagotch Character.30,60,90コースからです。
 
 こんにちは！わたしがご案内いたします♡
-30,60,90コースからです。
 
 
 <!-- slide -->
